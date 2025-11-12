@@ -330,5 +330,3 @@ Contributions, issues, and feature requests are welcome!
 For questions or suggestions, please open an issue on GitHub.
 
 ---
-
-**Note**: This design is intended for educational purposes and FPGA implementation. For production use, additional verification and optimization may be required.
